@@ -1,4 +1,6 @@
 body {
+    background-position: center bottom;
+    background-repeat: no-repeat;
     background-image: url("../imagens/wallpaper007.jpg");
 }
 
@@ -21,5 +23,8 @@ div#q2 {
 }
 
 div#q3 {
-background-image: url("../imagens/download.jpg");
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url("../imagens/download.jpg");
 }
